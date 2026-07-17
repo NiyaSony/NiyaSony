@@ -78,7 +78,9 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-
+<a href="https://leetcode.com/NiyaSony">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
 
 </div>
 
