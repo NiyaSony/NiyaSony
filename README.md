@@ -44,55 +44,13 @@
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=java,html" />
+<img src="https://skillicons.dev/icons?i=java,html,python" />
 
 </div>
 
----
-
-## 📚 Learning Roadmap
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 2026
-- ✅ Java Fundamentals
-- ✅ OOP Concepts
-- ✅ Git & GitHub
-- ✅ HTML & CSS
-- 🔄 Basic JavaScript
-- 🔄 UI/UX Fundamentals
-
-</td>
-<td width="50%">
-
-### 🔹 2027
-- ⏳ Data Structures
-- ⏳ Algorithms
-- ⏳ React
-- ⏳ Database Systems
-- ⏳ Backend Development
-- ⏳ Open Source Contributions
-
-</td>
-</tr>
-</table>
-
----
 
 
 
----
-
-## 🎯 2026 Goals
-
-- [ ] Solve **300+ coding problems**
-- [ ] Build **10+ projects**
-- [ ] Learn **JavaScript thoroughly**
-- [ ] Create a **personal portfolio website**
-- [ ] Start contributing to **open-source projects**
-- [ ] Develop strong **communication and teamwork skills**
 
 ---
 
