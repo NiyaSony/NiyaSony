@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✨ Niya
+# ✨Hi, I'm Niya
 
 ### *Aspiring Software Engineer • Computer Science Student • Lifelong Learner*
 
