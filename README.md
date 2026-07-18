@@ -41,7 +41,7 @@
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=java,html,python,leetcode,dsa" />
+<img src="https://skillicons.dev/icons?i=java,html,python" />
 
 </div>
 
@@ -75,9 +75,7 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://leetcode.com/NiyaSony">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
+
 
 </div>
 
