@@ -41,7 +41,7 @@
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=java,html,python" />
+<img src="https://skillicons.dev/icons?i=java,html,python,leetcode,dsa" />
 
 </div>
 
