@@ -26,7 +26,7 @@
 - 🎓 **B.Tech CSE student**
 - 💻 Currently learning **Java, Python, HTML, CSS, and UI/UX Design**
 - 🧠 Interested in **Software Development, Web Development, and Problem Solving**
-- 🚀 Building a strong foundation in **DSA and Git/GitHub**
+- 🚀 Building a strong foundation in **DSA**
 - 🌱 Goal: Become a **highly skilled software engineer** by graduation
 
 ---
