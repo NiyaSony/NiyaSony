@@ -3,7 +3,7 @@
   
 ## *✨Hi, I'm Niya*
 
-### *Aspiring Software Engineer • Computer Science Student • Lifelong Learner*
+### *Lifelong Learner*
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+my+future+through+code.;Learning+Java+%26+Web+Development.;Exploring+UI%2FUX+Design+and+Problem+Solving.;Consistency+is+my+superpower." alt="Typing SVG" />
 
