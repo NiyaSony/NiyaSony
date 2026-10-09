@@ -1,5 +1,5 @@
 
-## `> Hi, I'm Niya_` 👾
+# `> Hi, I'm Niya_` 👾
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=;Future+Engineer+in+Progress;Learning+Python+%26+Java;Exploring+Software+%2B+Hardware;Turning+Curiosity+Into+Code" alt="Typing animation" />
