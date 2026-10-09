@@ -1,93 +1,90 @@
-
-<div align="center">
-  
-## *✨Hi, I'm Niya*
-
-### *Lifelong Learner*
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+my+future+through+code.;Learning+Java+%26+Web+Development.;Exploring+UI%2FUX+Design+and+Problem+Solving.;Consistency+is+my+superpower." alt="Typing SVG" />
+# `> Hi, I'm Niya_` 👾
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focused%20on-Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exploring-UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BTech+ECE+Student;Future+Engineer+in+Progress;Learning+Python+%26+Java;Exploring+Software+%2B+Hardware;Turning+Curiosity+Into+Code" alt="Typing animation" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=180&section=header&text=CODE.%20LEARN.%20REPEAT.&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Profile banner" />
+</p>
 
----
+### `01` — About Me
 
-## 🌌 About Me
+```python
+class EngineerInProgress:
+    def __init__(self):
+        self.name = "Niya"
+        self.degree = "B.Tech ECE"
+        self.interests = [
+            "Programming",
+            "Software Development",
+            "Electronics",
+            "Problem Solving"
+        ]
+        self.currently_learning = ["Python", "Java"]
 
-```text
-> Engineering my skills one project at a time...
+    def mission(self):
+        return "Build things. Break things. Learn why."
 ```
 
-- 🎓 **B.Tech CSE student**
-- 💻 Currently learning **Java, Python, HTML, CSS, and UI/UX Design**
-- 🧠 Interested in **Software Development, Web Development, and Problem Solving**
-- 🚀 Building a strong foundation in **DSA**
-- 🌱 Goal: Become a **highly skilled software engineer** by graduation
+🎓 Electronics and Communication Engineering student
+💻 Exploring the intersection of software and hardware
+🐍 Currently building my programming fundamentals
+🧩 Interested in turning ideas into practical projects
+🌱 Growing one commit at a time
 
----
+### `02` — My Tech Universe
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode&theme=dark" alt="Python, Java, Git, GitHub, and VS Code icons" />
+</p>
 
-<div align="center">
+*Currently learning — not claiming mastery. More tools will join the collection as I grow.*
 
-### Languages & Tools
+### `03` — The Mission
 
-<img src="https://skillicons.dev/icons?i=java,html,github" />
+```text
+[ LEARN ] ──► [ BUILD ] ──► [ DEBUG ] ──► [ REPEAT ]
+    ▲                                          │
+    └──────────────────────────────────────────┘
+```
 
-### Currently Exploring
+* ⚡ Strengthen my programming and problem-solving skills.
+* 🛠️ Build projects that solve real problems.
+* 🔌 Explore embedded systems and the connection between code and circuits.
+* 🌐 Discover open source and collaborate with other developers.
 
-<img src="https://skillicons.dev/icons?i=java,html,python" />
+### `04` — My GitHub Activity
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="165" alt="Most used programming languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%" alt="GitHub contribution streak" />
+</p>
 
+### `05` — Projects Loading...
 
+> `STATUS: INITIALIZING...`
 
+I'm working towards building projects that combine programming, creativity, and engineering.
 
----
+**Coming soon:** My first Python projects, Java applications, and ECE experiments.
 
-## 📈 Contribution Activity
+### `06` — Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile" />
+  </a>
+</p>
 
-### Keep the streak alive 🔥
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=NiyaSony&theme=tokyonight&hide_border=true&border_radius=16"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="www.linkedin.com/in/niya-sony-3b5462412">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/NiyaSony">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Philosophy
-
-> **"Small daily improvements create extraordinary results over time."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</div>-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Decorative footer banner" />
+</p>
