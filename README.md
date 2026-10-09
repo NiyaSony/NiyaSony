@@ -1,7 +1,8 @@
-# `> Hi, I'm Niya_` 👾
+
+## `> Hi, I'm Niya_` 👾
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BTech+ECE+Student;Future+Engineer+in+Progress;Learning+Python+%26+Java;Exploring+Software+%2B+Hardware;Turning+Curiosity+Into+Code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=;Future+Engineer+in+Progress;Learning+Python+%26+Java;Exploring+Software+%2B+Hardware;Turning+Curiosity+Into+Code" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -57,8 +58,8 @@ class EngineerInProgress:
 ### `04` — My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiyaSony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaSony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -76,7 +77,7 @@ I'm working towards building projects that combine programming, creativity, and 
 ### `06` — Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/NiyaSony">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile" />
   </a>
 </p>
